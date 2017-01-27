@@ -5,4 +5,4 @@ authors = ["Michael Alexander <beefsack@gmail.com>"]
 
 [dependencies]
 stdx = { git = "https://github.com/brson/stdx.git" }
-combine = "2.1"
+combine = "=2.1.2"
