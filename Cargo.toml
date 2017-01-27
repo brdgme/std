@@ -1,0 +1,8 @@
+[package]
+name = "brdgme-std"
+version = "0.1.0"
+authors = ["Michael Alexander <beefsack@gmail.com>"]
+
+[dependencies]
+stdx = { git = "https://github.com/brson/stdx.git" }
+combine = "2.1"
