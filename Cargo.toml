@@ -5,6 +5,8 @@ authors = ["Michael Alexander <beefsack@gmail.com>"]
 
 [dependencies]
 combine = "=2.1.2"
+diesel = "0.12.0"
+diesel_codegen = "0.12.0"
 # stdx
 serde = "=0.9.5"
 serde_json = "=0.9.4"
